@@ -153,7 +153,7 @@ export const anomalies: Anomaly[] = [
 ];
 
 export const roadHealthData: RoadHealth[] = [
-  { sector: 'F-10', healthIndex: 68, anomalyCount: 5, lastUpdated: '2025-12-03T12:00:00Z' },
+  { sector: 'Comsats', healthIndex: 68, anomalyCount: 5, lastUpdated: '2025-12-03T12:00:00Z' },
   { sector: 'F-7', healthIndex: 82, anomalyCount: 2, lastUpdated: '2025-12-03T11:30:00Z' },
   { sector: 'G-9', healthIndex: 55, anomalyCount: 8, lastUpdated: '2025-12-03T10:45:00Z' },
   { sector: 'Blue Area', healthIndex: 74, anomalyCount: 3, lastUpdated: '2025-12-03T09:15:00Z' },
